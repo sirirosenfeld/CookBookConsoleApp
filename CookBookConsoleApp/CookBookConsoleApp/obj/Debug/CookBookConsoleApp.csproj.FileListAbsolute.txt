@@ -1,0 +1,7 @@
+D:\Work\C#\CookBookConsoleApp\CookBookConsoleApp\bin\Debug\CookBookConsoleApp.exe.config
+D:\Work\C#\CookBookConsoleApp\CookBookConsoleApp\bin\Debug\CookBookConsoleApp.exe
+D:\Work\C#\CookBookConsoleApp\CookBookConsoleApp\bin\Debug\CookBookConsoleApp.pdb
+D:\Work\C#\CookBookConsoleApp\CookBookConsoleApp\obj\Debug\CookBookConsoleApp.csproj.AssemblyReference.cache
+D:\Work\C#\CookBookConsoleApp\CookBookConsoleApp\obj\Debug\CookBookConsoleApp.csproj.CoreCompileInputs.cache
+D:\Work\C#\CookBookConsoleApp\CookBookConsoleApp\obj\Debug\CookBookConsoleApp.exe
+D:\Work\C#\CookBookConsoleApp\CookBookConsoleApp\obj\Debug\CookBookConsoleApp.pdb
